@@ -1,7 +1,7 @@
 ---
 applications:
 - name: webchatJavaProj
-  path: target/webchatJavaProj-0.0.1.war
+  path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
     CONVERSATION_WORKSPACE_ID: 73e111bf-8e62-46f0-ac2b-090a9e9f78a1
